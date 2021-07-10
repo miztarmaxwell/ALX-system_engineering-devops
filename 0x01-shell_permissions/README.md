@@ -1,1 +1,2 @@
-Alx system engineering devops
+#!/bin/bash
+shall basics and navigations
